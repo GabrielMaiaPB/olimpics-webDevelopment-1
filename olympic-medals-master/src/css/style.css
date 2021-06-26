@@ -1,0 +1,149 @@
+header {
+    display: flex;
+    background-color: black;  
+    width: 100vw; 
+}
+
+.PageTitle {
+    color: white;
+    font-family:monospace;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 225px;
+    margin-top: 25px;
+}
+
+.ColunaCountry {
+    padding: 15px;
+    width: 50px;
+}
+
+ .Topo {
+    display: flex;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+    background-color: darkviolet;
+    border-radius: 5px;
+    color: honeydew;
+    width: 99vw;
+} 
+
+.TopTitles {
+    text-align: left;
+    display: flex;
+}
+
+.Medals {
+    text-align: right;
+    display: inline-flex;
+    margin-left: 80px;
+}
+
+.Ranking {
+    width: 70px;
+    text-align: center;
+    margin-right: 15px;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 275px;
+}
+
+.Country {
+    width: 100px;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.GoldenMedal {
+    width: 50px;
+    margin-right: 15px;
+    margin-left: 400px;
+    padding: 10px;
+    font-size: 20px;
+    border: 4px solid gold;
+    border-radius: 15px 50px;
+    text-align: center;
+}
+
+.SilverMedal {
+    width: 50px;
+    margin-right: 15px;
+    padding: 10px;
+    font-size: 20px;
+    border: 4px solid silver;
+    border-radius: 15px 50px;
+    text-align: center;
+}
+
+.BronzeMedal {
+    width: 50px;
+    margin-right: 25px;
+    padding: 10px;
+    font-size: 20px;
+    border: 4px solid brown;
+    border-radius: 15px 50px;
+    text-align: center;
+}
+
+.Score {
+    width: 50px;
+    margin-right: 15px;
+    padding: 10px;
+    font-size: 20px;
+    border: 4px solid black;
+    border-radius: 15px 50px;
+    text-align: center;
+}
+
+.Linha {
+    display: inline-flex;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: ghostwhite;
+    font-size: 22px;
+    width: 99vw;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 5px
+}
+
+.ColunaRanking {
+    padding: 10px;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+.ColunaCountry {
+    margin-left: 72px;
+}
+
+.ColunaGoldenMedal {
+    margin-top: 25px;
+    padding: 10px;
+    margin-left: 540px;
+    margin-right: 60px;
+}
+
+.ColunaSilverMedal {
+    margin-top: 25px;
+    padding: 10px;
+    margin-right: 60px;
+}
+
+.ColunaBronzeMedal {
+    margin-top: 25px;
+    padding: 10px;
+    margin-right: 60px;
+}
+
+.ColunaTotal {
+    margin-top: 25px;
+    padding: 10px;
+}
+
+
+
